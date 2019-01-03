@@ -1,6 +1,6 @@
 pragma solidity ^0.4.0;
 
-contract DumbCoin{
+contract DumbCoin{ // Contract declaration.
     
     address deployer;
     mapping (address => uint) balances;
