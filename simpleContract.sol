@@ -1,6 +1,6 @@
 pragma solidity  >=0.4.0 <0.6.0; // Specifies the solidity version.
 
-contract simpleContract { // Function declaration
+contract simpleContract { // Contract declaration.
     
     uint storedData; // Declaration of a state variable (storedData) of type unsigned integer (uint).
     
